@@ -1,0 +1,9 @@
+name: kr-test-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - jupyterlab=3
+  - sqlalchemy
+  - pyodbc
+  - pandas
